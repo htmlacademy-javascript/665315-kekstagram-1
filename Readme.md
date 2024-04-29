@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Artem Kuzmenko](https://up.htmlacademy.ru/javascript-individual/1/user/665315).
-* Наставник: `Неизвестно`.
+* Наставник: `Андрей Устименко`.
 
 ---
 
